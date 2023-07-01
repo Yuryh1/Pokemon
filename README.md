@@ -19,7 +19,7 @@
 ## 🚀 Installation
 
 ```
-$ git clone https://github.com/Yuryh1/Pokémon.git
+$ git clone https://github.com/Yuryh1/Pokemon.git
 $ cd react-todolist
 $ npm install
 $ npm start
