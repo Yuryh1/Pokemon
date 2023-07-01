@@ -25,4 +25,4 @@ $ npm install
 $ npm start
 ```
 
-The application will open in the browser on http://localhost:3000
+The application will open in the browser on  https://pokemon-mu-puce.vercel.app/
